@@ -1,0 +1,10 @@
+G:\9. Work Files\Projects\VLLUtilBackup - Copy\VLLUtil-11AM-10-25-2024\bin\Debug\VLLUtil.exe.config
+G:\9. Work Files\Projects\VLLUtilBackup - Copy\VLLUtil-11AM-10-25-2024\bin\Debug\VLLUtil.exe
+G:\9. Work Files\Projects\VLLUtilBackup - Copy\VLLUtil-11AM-10-25-2024\bin\Debug\VLLUtil.pdb
+G:\9. Work Files\Projects\VLLUtilBackup - Copy\VLLUtil-11AM-10-25-2024\obj\Debug\VLLUtil.csproj.AssemblyReference.cache
+G:\9. Work Files\Projects\VLLUtilBackup - Copy\VLLUtil-11AM-10-25-2024\obj\Debug\VLLUtility.MainForm.resources
+G:\9. Work Files\Projects\VLLUtilBackup - Copy\VLLUtil-11AM-10-25-2024\obj\Debug\VLLUtil.Properties.Resources.resources
+G:\9. Work Files\Projects\VLLUtilBackup - Copy\VLLUtil-11AM-10-25-2024\obj\Debug\VLLUtil.csproj.GenerateResource.cache
+G:\9. Work Files\Projects\VLLUtilBackup - Copy\VLLUtil-11AM-10-25-2024\obj\Debug\VLLUtil.csproj.CoreCompileInputs.cache
+G:\9. Work Files\Projects\VLLUtilBackup - Copy\VLLUtil-11AM-10-25-2024\obj\Debug\VLLUtil.exe
+G:\9. Work Files\Projects\VLLUtilBackup - Copy\VLLUtil-11AM-10-25-2024\obj\Debug\VLLUtil.pdb
